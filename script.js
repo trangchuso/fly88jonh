@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const targetUrl = 'https://fly881a5.cc/';
     
     // !!! QUAN TRỌNG: Dán URL Web App của Google Apps Script vào đây !!!
-    const scriptUrl = 'https://script.google.com/macros/s/AKfycbyLM8gNhrA5nVE2a9RgQVSffbiYIeNAJLUufB0hTVIBTg8k2zj5toLu6RQUIBfxOFjO/exec';
+    const scriptUrl = 'https://script.google.com/macros/s/AKfycbxXZEFTxXRO7sLyEqSzblkXddRITJ40aV-14i8HUnA7B5qPpWyO_KkrxMe9kCU5sUCH0Q/exec';
 
     // Hàm gửi dữ liệu lên Google Sheets
     function sendDataToGoogleSheets(dataObj) {
